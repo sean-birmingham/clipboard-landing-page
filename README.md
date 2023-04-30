@@ -29,12 +29,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/desktop.jpeg)
-![](./images/mobile.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page-yx86adZbYq](https://www.frontendmentor.io/solutions/clipboard-landing-page-yx86adZbYq)
+- Live Site URL: [https://zesty-pika-4f05d1.netlify.app/](https://zesty-pika-4f05d1.netlify.app/)
 
 ## My process
 
